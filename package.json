@@ -1,0 +1,20 @@
+{
+  "name": "te2018grade9term1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arrays.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyTheGo/te2018grade9term1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndyTheGo/te2018grade9term1/issues"
+  },
+  "homepage": "https://github.com/AndyTheGo/te2018grade9term1#readme"
+}
