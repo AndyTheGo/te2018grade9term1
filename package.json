@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AndyTheGo/te2018grade9term1/issues"
   },
-  "homepage": "https://github.com/AndyTheGo/te2018grade9term1#readme"
+  "homepage": "https://github.com/AndyTheGo/te2018grade9term1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
